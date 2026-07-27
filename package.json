@@ -1,0 +1,21 @@
+{
+  "name": "yasp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Yet Another Sudoku Program — a Next.js port of the classic 2003 .NET Sudoku (SudokuDomain + WinSudoku)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.5.22",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "eslint": "9.18.0",
+    "eslint-config-next": "^15.5.22"
+  }
+}
